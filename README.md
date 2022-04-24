@@ -1,5 +1,5 @@
-# Substrate Contracts Book
-This is the source repo to build "Substrate Contracts Book".
+# Tetcore Contracts Book
+This is the source repo to build "Tetcore Contracts Book".
 
 Currently, everyone can access our book from here:
 
